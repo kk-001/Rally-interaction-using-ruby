@@ -72,7 +72,7 @@ end
 
 
 #QUERY AND GET ALL TEST SETS UNDER AN ITERATION
-#----------------------------------------------
+#---------------------------------------------
  pr_ts_result = query_rally("test_set", true, test_set_pj, false, "Iteration.Name", required_iteration)
 
 
